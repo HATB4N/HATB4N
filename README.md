@@ -17,4 +17,5 @@
                 ~|Invnvnvvnvvvnnv}+`
                     -~|{*l}*|~
 
-xbps
+
+    # sudo xbps-install -Syu
